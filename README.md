@@ -33,11 +33,3 @@ An AI-powered chatbot built using Streamlit and Sentence Transformers that helps
 - **Similarity Metric**: Cosine Similarity from scikit-learn
 
 ---
-
-## 📂 Folder Structure
-Ask-Krishna-Chatbot/
-├── bhagavad-gita.xlsx # Bhagavad Gita dataset (with multiple languages)
-├── app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
